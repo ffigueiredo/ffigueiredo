@@ -26,7 +26,7 @@ This repo is a mix of:
 
 ## Featured Projects
 
-### Legacy Database Schema Redesign (./legacyDatabaseFailure)
+### [Legacy Database Schema Redesign](https://github.com/ffigueiredo/fabio_figueiredo_portfolio/tree/74c449cd8ecb5ea7a8129919b8c933675e6d3ea0/legacyDatabaseFailure))
 
 * **Stack:** ER Diagraming, Process Mapping, legacy Access/sql Analysis.
 * **Summary:** Responded to a critical 64-bit architecture failure that rendered an undocumented MS Access database unusable. Reverse-engineered the business logic under operational pressure to deliver current/future-state data models and workflow maps that bridged the gap between Ops and IT.
